@@ -1,0 +1,4 @@
+patient_id,name,age,gender,hr,ox,sys,dia,timestamp,cholesterol,glucose
+1,John Doe,45,M,130,90,165,110,2023-11-14 23:13:20,,150.0
+2,Jane Smith,37,F,75,95,118,76,2023-11-14 22:13:20,180.0,
+3,Raj Kumar,60,M,140,88,170,115,2023-11-14 22:13:20,,200.0

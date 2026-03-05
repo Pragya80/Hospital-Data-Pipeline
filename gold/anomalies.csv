@@ -1,0 +1,7 @@
+patient_id,anomaly_type
+1,High Heart Rate
+1,Low Oxygen
+1,High Blood Pressure
+3,High Heart Rate
+3,Low Oxygen
+3,High Blood Pressure
